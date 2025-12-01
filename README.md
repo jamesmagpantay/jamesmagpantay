@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm James Randall A. Magpantay</h1>
 <h3 align="center">An Aspiring Security Engineer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jamesmagpantay" alt="jamesmagpantay" /></a> </p>
+
 - 📫 How to reach me **jamess.a.magpantay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/james randall magpantay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="james randall magpantay" height="30" width="40" /></a>
-<a href="https://fb.com/james magpantay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="james magpantay" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/james-randall-magpantay-60017b349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/james-randall-magpantay-60017b349" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/jamesrandall.a.magpantay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/jamesrandall.a.magpantay/" height="30" width="40" /></a>
 <a href="https://instagram.com/threndir_j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="threndir_j" height="30" width="40" /></a>
 </p>
 
