@@ -35,14 +35,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jamesmagpantay/jamesmagpantay/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jamesmagpantay/jamesmagpantay/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jamesmagpantay/jamesmagpantay/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img height="200" src="https://64.media.tumblr.com/b1b63c823ccc4f1d0441166310d1a90a/tumblr_mlgz0qy8zB1snjze5o1_500.gif"  />
 </div>
